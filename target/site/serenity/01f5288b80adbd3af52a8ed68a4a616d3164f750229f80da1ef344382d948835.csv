@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This is a testwith error","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
+"First serenity test","This is a manual test","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
+"First serenity test","This is a pending test","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
+"Sudents CRUD test","Delete the student and verify if the student is delete","SUCCESS","2019-06-23T20:17:34.062-05:00[America/Bogota]","0.0","0.0"
+"Sudents CRUD test","Update user information and verify the update infomation!","SUCCESS","2019-06-23T20:17:34.142-05:00[America/Bogota]","0.0","0.0"
+"Create students data driven test","DataDriven Test for adding multiple students to the Student App.","SUCCESS","2019-06-23T20:17:44.351-05:00[America/Bogota]","0.0","8.38"

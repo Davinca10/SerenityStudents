@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="com.studentapp.junit.FirstSerenityTest" skipped="3" tests="10" time="0.11" timestamp="2019-06-23 08:17:33"><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This is a pending test"/><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This is a testwith error"/><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This is a manual test"/><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This is a skipped test"><skipped/></testcase><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This failing test"/><testcase classname="com.studentapp.junit.FirstSerenityTest" name="Get all students"/><testcase classname="com.studentapp.junit.FirstSerenityTest" name="File does not exist"><error message="/ by zero" type="java.lang.ArithmeticException">/ by zero</error><system-err>/ by zero
+com.studentapp.junit.FirstSerenityTest.thisIsATestwithError(FirstSerenityTest.java:63)
+</system-err></testcase><testcase classname="com.studentapp.junit.FirstSerenityTest" name="File does not exist"><compromised message="E:/file.txt (No such file or directory)" type="java.io.FileNotFoundException">E:/file.txt (No such file or directory)</compromised><system-err>E:/file.txt (No such file or directory)
+com.studentapp.junit.FirstSerenityTest.fileDoesNotExist(FirstSerenityTest.java:69)
+</system-err></testcase><testcase classname="com.studentapp.junit.FirstSerenityTest" name="Get all students"><compromised message="E:/file.txt (No such file or directory)" type="java.io.FileNotFoundException">E:/file.txt (No such file or directory)</compromised><system-err>E:/file.txt (No such file or directory)
+com.studentapp.junit.FirstSerenityTest.fileDoesNotExist(FirstSerenityTest.java:69)
+</system-err></testcase><testcase classname="com.studentapp.junit.FirstSerenityTest" name="This failing test"><failure message="1 expectation failed.&#10;Expected status code &lt;500&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;500&gt; but was &lt;200&gt;.
+
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:643)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+com.studentapp.junit.FirstSerenityTest.thisFailingTest(FirstSerenityTest.java:45)
+</system-err></testcase></testsuite>

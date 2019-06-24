@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Sudents CRUD test","Delete the student and verify if the student is delete","SUCCESS","2019-06-23T20:17:34.062-05:00[America/Bogota]","0.0","0.0"
+"Sudents CRUD test","Update user information and verify the update infomation!","SUCCESS","2019-06-23T20:17:34.142-05:00[America/Bogota]","0.0","0.0"
+"Sudents CRUD test","This test will create a new studen","ERROR","2019-06-23T20:17:34.143-05:00[America/Bogota]","0.0","5.55"
+"Sudents CRUD test","Verify if the student was added to the application","ERROR","2019-06-23T20:17:39.743-05:00[America/Bogota]","0.0","0.03"

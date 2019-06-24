@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This is a testwith error","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
+"First serenity test","This is a manual test","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
+"First serenity test","This is a pending test","SUCCESS","2019-06-23T20:17:33.937-05:00[America/Bogota]","0.0","0.0"
