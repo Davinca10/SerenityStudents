@@ -9,7 +9,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<serenity.version>2.0.55</serenity.version> <!-- https://bintray.com/serenity/maven/serenity-core/ -->
-		<serenity.maven.version>2.0.55</serenity.maven.version>
+		<serenity.maven.version>3.0.5</serenity.maven.version>
 		<serenity.cucumber.version>1.9.39</serenity.cucumber.version> <!-- https://bintray.com/serenity/maven/serenity-cucumber/ -->
 	</properties>
 
